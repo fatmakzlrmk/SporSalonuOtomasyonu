@@ -1,0 +1,15 @@
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\bin\Debug\SporSalonuOtomasyonu.exe.config
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\bin\Debug\SporSalonuOtomasyonu.exe
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\bin\Debug\SporSalonuOtomasyonu.pdb
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.BaslangıcEkranıFormu.resources
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.Properties.Resources.resources
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.exe
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.pdb
+C:\Users\Fatma\source\repos\SporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.KullaniciGiris.resources
+C:\Users\Fatma\source\repos\sporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.Anasayfa.resources
+C:\Users\Fatma\source\repos\sporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.Uye.resources
+C:\Users\Fatma\source\repos\sporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.UyeListele.resources
+C:\Users\Fatma\source\repos\sporSalonuOtomasyonu\SporSalonuOtomasyonu\obj\Debug\SporSalonuOtomasyonu.SporProgram.resources
